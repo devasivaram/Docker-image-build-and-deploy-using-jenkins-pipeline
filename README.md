@@ -105,6 +105,9 @@ Add the docker hub username and password token that generated at Docker Hub.
   yum install java -y
   ~~~
   13. Now click on lauch agent option in jenkins where we created 2 agent nodes.
+
+![image](https://user-images.githubusercontent.com/100773863/170088962-45e5dbc3-4b3e-450e-80ac-e827e37ad67f.png)
+
   
 ### Step 4: Add Pipeline script
  Now we need to create pipeline script for our project:
